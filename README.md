@@ -22,6 +22,8 @@ I'm a **technical drawer/system planner** with a background in **Electrical Engi
 ### 💻 Languages & Frameworks
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### 🔧 Tools & Platforms
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
@@ -38,8 +40,8 @@ I'm a **technical drawer/system planner** with a background in **Electrical Engi
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn] coming soon 
-[![Portfolio] coming soon
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](#) *Coming soon*  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](#) *Coming soon*  
 
 ---
 
