@@ -1,4 +1,4 @@
-# Hi lurkers, I'am Fabi 👋
+# Hi lurkers, My name is Fabi 👋
 
 ![Profile Banner](https://i.ibb.co/7xCbHF9f/github-header-image.png)  
 
