@@ -1,6 +1,6 @@
-# Hi there, I'm Fabi-DCI 👋
+# Hi lurkers, I'am Fabi 👋
 
-![Profile Banner](https://ibb.co/MyS9bLXv)  
+![Profile Banner](https://i.ibb.co/7xCbHF9f/github-header-image.png)  
 
 ## 🚀 About Me
 I'm a **technical drawer/system planner** with a background in **Electrical Engineering**, currently transitioning into **Backend Development** with Python. I love building efficient systems and contributing to open-source projects.  
